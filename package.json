@@ -1,0 +1,10 @@
+{
+  "name": "it-asset-disposal-system",
+  "version": "1.0.0",
+  "description": "Full Stack MERN IT Asset Secure Disposal Management System",
+  "scripts": {
+    "seed": "cd server && node seed.js",
+    "server": "cd server && node server.js",
+    "client": "cd client && npx vite"
+  }
+}
